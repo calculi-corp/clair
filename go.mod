@@ -35,5 +35,5 @@ require (
 	golang.org/x/sys v0.0.0-20210122093101-04d7465088b8 // indirect
 	golang.org/x/tools v0.0.0-20210112235408-75fd75db8797 // indirect
 	gopkg.in/square/go-jose.v2 v2.4.1
-	gopkg.in/yaml.v3 v3.0.0-20200506231410-2ff61e1afc86
+	gopkg.in/yaml.v3 v3.0.0
 )
