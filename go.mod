@@ -9,7 +9,7 @@ require (
 	github.com/google/go-containerregistry v0.0.0-20191206185556-eb7c14b719c6
 	github.com/google/uuid v1.1.2
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
-	github.com/jackc/pgx/v4 v4.7.2
+	github.com/jackc/pgx/v4 v4.18.2
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/klauspost/compress v1.10.11
 	github.com/ldelossa/responserecorder v1.0.1
@@ -30,10 +30,7 @@ require (
 	go.opentelemetry.io/otel/exporters/stdout v0.16.0
 	go.opentelemetry.io/otel/exporters/trace/jaeger v0.16.0
 	go.opentelemetry.io/otel/sdk v0.16.0
-	golang.org/x/mod v0.4.0 // indirect
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210122093101-04d7465088b8 // indirect
-	golang.org/x/tools v0.0.0-20210112235408-75fd75db8797 // indirect
+	golang.org/x/sync v0.1.0
 	gopkg.in/square/go-jose.v2 v2.4.1
-	gopkg.in/yaml.v3 v3.0.0-20200506231410-2ff61e1afc86
+	gopkg.in/yaml.v3 v3.0.1
 )
